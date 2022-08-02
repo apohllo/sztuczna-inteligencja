@@ -1,4 +1,4 @@
 # Cel
 
 Cele laboratorium jest przedstawienie algorytmów związanych z podejmowaniem 
-decyzji i zastosowaniami w prostych grach.
+decyzji i ich zastosowaniami w prostych grach.
