@@ -1,3 +1,8 @@
 # Cel
 
-Celem laboratorium jest przedstawienie zaawansowanego problemu z zakresu rozpoznawania obrazów: detekcji obiektów.
+Celem laboratorium jest przedstawienie zastosowań sieci neuronowych w rozpoznawaniu 
+obrazów.
+
+1. Krótki wstęp do sieci typu CNN
+2. Pretrening, zastosowanie gotowej sieci do detekcji obiektów
+3. Transfer learning i finetuning, zastosowanie do klasyfikacji obrazów
