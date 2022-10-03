@@ -32,8 +32,8 @@
 9. W przypadku nieuzyskania zaliczenia w pierwszym terminie, możliwe jest uzyskanie zaliczenia w terminie drugim, jeśli
    wszystkie brakujące ćwiczenia indywidualne zostaną ocenione pozytywnie do końca sesji poprawkowej.
 10. W przypadku uzyskania zaliczenia stosowana jest skala ocen AGH, tj.:
-   * 35 - 41 pkt. - ocena 3 (dst),
-   * 42 - 48 pkt. - ocena 3,5 (+dst),
-   * 49 - 55 pkt. - ocena 4 (db),
-   * 56 - 62 pkt. - ocena 4,5 (+db),
-   * >= 63 pkt. - ocean 5 (bdb).
+   * `35 - 41` pkt. - ocena 3 (dst),
+   * `42 - 48` pkt. - ocena 3,5 (+dst),
+   * `49 - 55` pkt. - ocena 4 (db),
+   * `56 - 62` pkt. - ocena 4,5 (+db),
+   * `>= 63` pkt. - ocean 5 (bdb).
