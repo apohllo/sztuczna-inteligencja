@@ -9,3 +9,5 @@ problem złożonego szukania hiperparametrów oraz wyjaśnialności modelu.
 3. Boosting, XGBoost.
 4. Optymalizacja dużej liczby hiperparametrów: random search, Optuna.
 5. Wyjaśnialność modelu: ważność cech (według modeli drzewiastych), SHAP.
+
+Zawartość laboratorium dostępna jest w [notebooku](notebook_empty.ipynb).
