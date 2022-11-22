@@ -10,3 +10,4 @@ wykorzystaniem sieci neuronowych.
 4. Zaawansowane hiperparametry w uczeniu sieci: LR scheduler, algorytm optymalizacji, architektura sieci (porpozycja).
 5. Rola akceleracji sprzętowej oraz rozmiar pamięci w uczeniu sieci neuronowych.
 
+Zawartość laboratorium dostępna jest w [notebooku](lab_3.ipynb).
