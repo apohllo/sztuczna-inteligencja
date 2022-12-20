@@ -10,4 +10,4 @@ przetwarzania języka naturalnego: odpowiadania na pytania.
 5. Trening modelu formułującego odpowiedzi na pytania.
 6. Rola dużych modeli w problemach NLP.
 
-Zawartość laboratorium dostępna jest w [notebooku](lab5.ipynb).
+Zawartość laboratorium dostępna jest w [notebooku](Lab5.ipynb).
