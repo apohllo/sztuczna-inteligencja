@@ -11,3 +11,5 @@ rekomendacyjnych.
 4. Problem cold start, systemy hybrydowe.
 5. Metryki jakości systemów rekomendacyjnych.
 6. Systemy model-based collaborative filtering.
+
+Zawartość laboratorium dostępna jest w [notebooku](Lab6.ipynb).
