@@ -8,6 +8,6 @@ przetwarzania języka naturalnego: odpowiadania na pytania.
 3. Warianty sieci transformacyjnych: encoder, encoder-decoder, decoder.
 4. Tokenizacja danych tekstowych.
 5. Trening modelu formułującego odpowiedzi na pytania.
-6. Rola dużych modeli w problemach NLP.
+6. Rola gigantycznych modeli w problemach NLP.
 
-Zawartość laboratorium dostępna jest w [notebooku](Lab5.ipynb).
+Zawartość laboratorium dostępna jest w [notebooku](lab_5.ipynb).
