@@ -1,15 +1,12 @@
 # Cel
 
-Celem laboratorium jest przedstawienie algorymtów wykorzystywanych w systemach 
-rekomendacyjnych.
+Cele laboratorium jest przedstawienie algorytmów związanych z podejmowaniem 
+decyzji i ich zastosowaniami w prostych grach.
 
-1. Typy systemów rekomendacyjnych: bez indywidualizacji, rekomendacje indywidualne 
-   content-based vs collaborative filtering.
-2. Proste systemy rekomendacyjne bez indywidualizacji, Bayesian average.
-3. Systemy neighborhood-based collaborative filtering, zastosowanie np. do
-   rekomendacji filmów.
-4. Problem cold start, systemy hybrydowe.
-5. Metryki jakości systemów rekomendacyjnych.
-6. Systemy model-based collaborative filtering.
+1. Wykorzystanie heurystyk w podejmowaniu decyzji.
+2. Algorytm minimax.
+3. Alpha-beta pruning.
+4. Monte Carlo tree search (MCTS).
 
-Zawartość laboratorium dostępna jest w [notebooku](Lab6.ipynb).
+
+Zawartość laboratorium dostępna jest w [notebooku](lab_6.ipynb).
