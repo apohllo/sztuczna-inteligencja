@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "ai-course-agh"
+version = "0.1.0"
+description = "Exercises for AI course at AGH."
+authors = ["Aleksander Smywinski-Pohl <apohllo@o2.pl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyterlab = "^4.2.5"
+jupyterlab-execute-time = "^3.2.0"
+jupytext = "^1.16.4"
+numpy = "^2.1.1"
+pandas = "^2.2.3"
+scikit-learn = "^1.5.2"
+matplotlib = "^3.9.2"
+missingno = "^0.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
