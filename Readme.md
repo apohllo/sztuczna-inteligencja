@@ -11,3 +11,39 @@
 # Zasady zaliczania laboratoriów
 
 Zasady zaliczania laboratoriów dostępne są w dokumencie przypisanym do kursu na Teamsach.
+
+# Setup środowiska wirtualnego 
+
+#### Instalacja poetry
+
+```sh
+curl -sSL https://install.python-poetry.org | python3 -
+```
+
+#### Stworzenie środowiska wirutalnego oraz pobranie zależności
+
+```sh
+poetry install
+```
+
+#### Aktywacja środowiska wirtualnego
+
+```sh
+poetry shell
+```
+
+#### Wyjście ze środowiska wirtualnego 
+
+```sh
+exit
+```
+
+#### Usuwanie środowisk wirtualnych
+
+```sh
+poetry env list
+```
+
+```sh
+poetry env remove <environment-name>
+```
