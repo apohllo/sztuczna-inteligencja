@@ -836,13 +836,13 @@ test = ["flaky", "ipyparallel", "pre-commit", "pytest (>=7.0)", "pytest-asyncio 
 
 [[package]]
 name = "ipython"
-version = "8.28.0"
+version = "8.29.0"
 description = "IPython: Productive Interactive Computing"
 optional = false
 python-versions = ">=3.10"
 files = [
-    {file = "ipython-8.28.0-py3-none-any.whl", hash = "sha256:530ef1e7bb693724d3cdc37287c80b07ad9b25986c007a53aa1857272dac3f35"},
-    {file = "ipython-8.28.0.tar.gz", hash = "sha256:0d0d15ca1e01faeb868ef56bc7ee5a0de5bd66885735682e8a322ae289a13d1a"},
+    {file = "ipython-8.29.0-py3-none-any.whl", hash = "sha256:0188a1bd83267192123ccea7f4a8ed0a78910535dbaa3f37671dca76ebd429c8"},
+    {file = "ipython-8.29.0.tar.gz", hash = "sha256:40b60e15b22591450eef73e40a027cf77bd652e757523eebc5bd7c7c498290eb"},
 ]
 
 [package.dependencies]
@@ -1366,6 +1366,31 @@ files = [
     {file = "kiwisolver-1.4.7-pp39-pypy39_pp73-win_amd64.whl", hash = "sha256:0c6c43471bc764fad4bc99c5c2d6d16a676b1abf844ca7c8702bdae92df01ee0"},
     {file = "kiwisolver-1.4.7.tar.gz", hash = "sha256:9893ff81bd7107f7b685d3017cc6583daadb4fc26e4a888350df530e41980a60"},
 ]
+
+[[package]]
+name = "lightgbm"
+version = "4.5.0"
+description = "LightGBM Python Package"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "lightgbm-4.5.0-py3-none-macosx_10_15_x86_64.whl", hash = "sha256:2212e2166af6379bc005e6f7041dd2dcba3750238eccbc55d09d3c0717c51187"},
+    {file = "lightgbm-4.5.0-py3-none-macosx_12_0_arm64.whl", hash = "sha256:1301aa853e1fe4bf318539aa132f373862b04aa537af502508711ce03dffff09"},
+    {file = "lightgbm-4.5.0-py3-none-manylinux2014_aarch64.whl", hash = "sha256:7f0a3dded769d83560845f2c3fe1966630ec1ca527c380d9d48d9b35579a796e"},
+    {file = "lightgbm-4.5.0-py3-none-manylinux_2_28_x86_64.whl", hash = "sha256:960a0e7c077de0ca3053f1325d3edfc92ea815acf5176adcacdea0f635aeef9b"},
+    {file = "lightgbm-4.5.0-py3-none-win_amd64.whl", hash = "sha256:7ccb73ee9fb74fbbf89ad24c57a6edad505aa8f2165d02b999a082dbbbb0ee57"},
+    {file = "lightgbm-4.5.0.tar.gz", hash = "sha256:e1cd7baf0318d4e308a26575a63a4635f08df866ad3622a9d8e3d71d9637a1ba"},
+]
+
+[package.dependencies]
+numpy = ">=1.17.0"
+scipy = "*"
+
+[package.extras]
+arrow = ["cffi (>=1.15.1)", "pyarrow (>=6.0.1)"]
+dask = ["dask[array,dataframe,distributed] (>=2.0.0)", "pandas (>=0.24.0)"]
+pandas = ["pandas (>=0.24.0)"]
+scikit-learn = ["scikit-learn (!=0.22.0)"]
 
 [[package]]
 name = "markdown-it-py"
@@ -2994,4 +3019,4 @@ test = ["websockets"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "a8afe99f5e10952a2b61b4b39204b737766a5b36c454739ad9bf74cafffe124c"
+content-hash = "3b86d375c788a72735186e417c0bc870b5de24ca88f156a2c44da8646968f7d9"
