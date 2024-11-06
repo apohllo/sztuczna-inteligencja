@@ -8,15 +8,22 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11"
+
+imbalanced-learn = "^0.12.4"
 jupyterlab = "^4.2.5"
 jupyterlab-execute-time = "^3.2.0"
 jupytext = "^1.16.4"
+lightgbm = "^4.5.0"
+matplotlib = "^3.9.2"
+missingno = "^0.5.2"
 numpy = "^2.1.1"
 pandas = "^2.2.3"
 scikit-learn = "^1.5.2"
 matplotlib = "^3.9.2"
 missingno = "^0.5.2"
-
+lightgbm = "^4.5.0"
+imbalanced-learn = "^0.12.4"
+torch = "^2.5.1"
 
 [build-system]
 requires = ["poetry-core"]
