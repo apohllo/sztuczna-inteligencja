@@ -7,7 +7,7 @@ readme = "README.md"
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.11.0"
 
 imbalanced-learn = "^0.12.4"
 jupyterlab = "^4.2.5"
@@ -16,14 +16,23 @@ jupytext = "^1.16.4"
 lightgbm = "^4.5.0"
 matplotlib = "^3.9.2"
 missingno = "^0.5.2"
-numpy = "^2.1.1"
+numpy = "^1.26.4"
 pandas = "^2.2.3"
 scikit-learn = "^1.5.2"
-matplotlib = "^3.9.2"
-missingno = "^0.5.2"
-lightgbm = "^4.5.0"
-imbalanced-learn = "^0.12.4"
+imblearn = "^0.0"
 torch = "^2.5.1"
+transformers = "^4.46.3"
+sacremoses = "^0.1.1"
+datasets = "^3.1.0"
+evaluate = "^0.4.3"
+sentencepiece = "^0.1.99"
+accelerate = "^0.26.0"
+peft = "^0.13.2"
+iprogress = "^0.4"
+tensorboard = "^2.18.0"
+tqdm = "^4.67.1"
+protobuf = "3.20.0"
+
 
 [build-system]
 requires = ["poetry-core"]
