@@ -13,4 +13,4 @@ rekomendacyjnych.
 6. Systemy model-based collaborative filtering.
 
 
-Zawartość laboratorium dostępna jest w [notebooku](lab_7.ipynb).
+Zawartość laboratorium dostępna jest w [notebooku](lab_6.ipynb).
